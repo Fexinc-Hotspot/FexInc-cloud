@@ -4,7 +4,7 @@
  
  
  
- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/david-nicolaus)!    [Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-thebadge&logo=Facebook&logoColor=white&link=https://https://www.facebook.com/thefexinchotspot/)
+ ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/david-nicolaus)   ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-thebadge&logo=Facebook&logoColor=white&link=https://www.facebook.com/thefexinchotspot/)
 
 - 🌱 I’m currently learning ...
 -
