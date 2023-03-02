@@ -8,7 +8,8 @@
  ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/thefexinchotspot/)
  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/david-nicolaus)
 
-- 🌱 I’m currently learning ...
+
+- 🌱 I’m currently learning ...![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 -
 - - 👯 I’m looking to collaborate on ...
 - - 💬 Ask me about ...
