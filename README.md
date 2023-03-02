@@ -1,4 +1,4 @@
-### Hi there I'm Davis 👋
+## Hi there I'm Davis 👋
 
  I am a Full Stack Developer & Design as well as Freelancer based in East Africa Dar-es-salaam, Tanzania & All over the world. I have passion for Web Developer & UX/UI Design, and I love to Create Mobile Apps
  
