@@ -1,4 +1,11 @@
 ### Hi there I'm Davis 👋
+
+ I am a Web Developer & Design as well as Freelancer based in East Africa Dar-es-salaam, Tanzania & All over the world. I have passion for Web Developer & UX/UI Design, and I love to Create Mobile Apps
+ 
+ 
+ 
+ 
+
 - 🌱 I’m currently learning ...
 - - 👯 I’m looking to collaborate on ...
 - - 💬 Ask me about ...
