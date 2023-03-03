@@ -1,6 +1,6 @@
 ## Hi there I'm Davis 👋
 <img align ="left" width= "50%" src="https://github-readme-stats.vercel.app/api?username=innocent-cloud&show_icons=true&theme=transparent"/>
-<img align="right" width ="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=innocent-cloud&layout=compact"/><br>
+<img align="right" width ="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=innocent-cloud&layout=compact"/><br>
 I am a Full Stack Developer & Design as well as Freelancer based in East Africa Dar-es-salaam, Tanzania & All over the world. I have passion for Web Developer & UX/UI Design, and I love to Create Mobile Apps..
 
 
