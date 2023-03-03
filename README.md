@@ -3,11 +3,11 @@
 <img align="right" width ="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=innocent-cloud&layout=compact"/>
  I am a Full Stack Developer & Design as well as Freelancer based in East Africa Dar-es-salaam,Tanzania & All over the world. I have passion for Web Developer & UX/UI Design, and I love to Create Mobile Apps..
 
-
+ ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/david-nicolaus)
  ![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white&link=https://meet.google.com/jkn-mxxd-bjs)
  ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/FexInchotSpt)
  ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/thefexinchotspot/)
- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/david-nicolaus)
+ 
   
 
 - - 🔭 I’m currently working on ...
