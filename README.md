@@ -1,5 +1,8 @@
 ## Hi there I'm Davis 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
+
  I am a Full Stack Developer & Design as well as Freelancer based in East Africa Dar-es-salaam, Tanzania & All over the world. I have passion for Web Developer & UX/UI Design, and I love to Create Mobile Apps
  
  ![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white&link=https://meet.google.com/jkn-mxxd-bjs)
