@@ -1,7 +1,7 @@
 ## Hi there I'm Davis 👋
 <img align ="left" width= "50%" src="https://github-readme-stats.vercel.app/api?username=innocent-cloud&show_icons=true&theme=transparent"/>
 <img align="right" width ="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=innocent-cloud&layout=compact"/>
- I am a Full Stack Developer & Design as well as Freelancer based in East Africa Dar-es-salaam,Tanzania & All over the world.
+ I am a Full Stack Developer & UI/UX Design as well as Freelancer based in East Africa Dar-es-salaam,Tanzania & All over the world.
  
  ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white=https://www.instagram.com/fexinc_hotspot/)
  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/david-nicolaus)
