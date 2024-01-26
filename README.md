@@ -1,5 +1,5 @@
 ## Hi there I'm Davis 👋
-<img align ="left" width= "50%" src="https://github-readme-stats.vercel.app/api?username=innocent-cloud&show_icons=true&theme=transparent"/>
+<img align ="left" width= "50%" src="https://github-readme-stats.vercel.app/api?username=Fexinc-Hotspot&show_icons=true&theme=transparent"/>
 <img align="right" width ="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=innocent-cloud&layout=compact"/>
  I am a Full Stack Developer & UI/UX Design as well as Freelancer based in East Africa Dar-es-salaam,Tanzania & All over the world.
  
