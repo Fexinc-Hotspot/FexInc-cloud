@@ -1,6 +1,6 @@
 ## Hi there I'm Davis 👋
 <img align ="left" width= "49%" src="https://github-readme-stats.vercel.app/api?username=Fexinc-Hotspot&show_icons=true&theme=transparent"/>
-<img align="right" width ="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fexinc-Hotspot&layout=compact"/>
+<img align="right" width ="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fexinc-Hotspot&layout=compact"/>
  I am a Full Stack Developer & UI/UX Design as well as Freelancer based in East Africa Dar-es-salaam,Tanzania & All over the world.
  
  ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white=https://www.instagram.com/fexinc_hotspot/)
